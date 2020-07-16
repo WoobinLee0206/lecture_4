@@ -6,4 +6,9 @@ class Cat:
         print('야옹~ 야옹~')
 
 raon = Cat()
+nabi = Cat()
+tong = Cat()
+
 raon.meow()
+nabi.meow()
+tong.meow()
